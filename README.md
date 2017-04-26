@@ -1,6 +1,6 @@
 # npmtest-file
 
-#### test coverage for  [file (v0.2.2)](https://github.com/aconbere/node-file-utils)  [![npm package](https://img.shields.io/npm/v/npmtest-file.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-file.svg)](https://travis-ci.org/npmtest/node-npmtest-file)
+#### basic test coverage for  [file (v0.2.2)](https://github.com/aconbere/node-file-utils)  [![npm package](https://img.shields.io/npm/v/npmtest-file.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-file.svg)](https://travis-ci.org/npmtest/node-npmtest-file)
 
 #### Higher level path and file manipulation functions.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-file/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-file/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-file/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-file/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-file/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-file/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-file/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-file/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-file/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-file/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-file/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-file/build/coverage.html/index.html)
 
@@ -73,7 +73,8 @@
         "fs",
         "walk"
     ],
-    "version": "0.2.2"
+    "version": "0.2.2",
+    "bin": {}
 }
 ```
 
